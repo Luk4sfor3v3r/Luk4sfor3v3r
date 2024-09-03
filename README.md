@@ -3,7 +3,7 @@
 <!--
 **Luk4sfor3v3r/Luk4sfor3v3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello guys my name is Lucas i'm furry and i like game i'am 16 years old
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
